@@ -1,41 +1,27 @@
 # Workshop React - Avec
 
-### Workshop
+# Índice
 
-- Apresentação do Projeto
-- Layout
-- Libs que vamos usar
-- Ideia de componentização
-- Api
+- [Tópicos](#topicos)
+- [Links](#links)
+- [Projeto Movie](#projeto-movie)
 
-### React
+# Topicos
 
-- O que é?
-- Em que pode nos ajudar.
-- Class Component x Function component
-- State
-- Props
-- Hooks
+- Mas afinal: O que é um componente?
+- Um overview do React
+- Create-react-app, seu melhor amigo.
+- A magia dos hooks
+- Css no Javascript com styled-components
+- Projeto prático: desenvolvendo um clone do IMDB em apenas 10 minutos! [CodeSandBox](https://codesandbox.io/s/avec-workshop-react-j8cup)
 
-### Bora codar!
+## Links
 
-- Codesandbox
-- Instalando libs
-- Como o react funciona
-- Criando um component básico
-- Importando outro Componente e uma Imagem
-- Estruturação do Projeto
-- Explicando as rotas
-- Criando a home
-- Criando componentes comuns
-- Adicionando components a Home
-- Explicação Fetch Api
-- Adicionando Spinner
-- Listando os filmes
-- Estilização com flex (https://origamid.com/projetos/flexbox-guia-completo/)
-- Adicionando o Data ao state hook
-- Adicionando os dados aos components
-- Criando a rota de detalhes
+- [Documentação React](https://pt-br.reactjs.org/docs/getting-started.html)
+- [Guia Flexbox](https://origamid.com/projetos/flexbox-guia-completo/)
+- [Projeto Movie](https://codesandbox.io/s/avec-workshop-react-j8cup)
 
-* Explicando a ideia de continuidade do workshop.
-* Implementação do Redux para próximos passos.
+
+## Projeto Movie
+
+- Libs usadas
